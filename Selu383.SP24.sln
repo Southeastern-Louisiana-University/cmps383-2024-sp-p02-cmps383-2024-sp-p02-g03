@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selu383.SP24.Api", "Selu383
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selu383.SP24.Tests", "Selu383.SP24.Tests\Selu383.SP24.Tests.csproj", "{2B9C9D0C-00C0-4611-8886-EAF4F726C86B}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Selu383.SP24.Web", "Selu383.SP24.Web\Selu383.SP24.Web.esproj", "{CE6217E1-12FA-4223-BE72-1F24EA364303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{2B9C9D0C-00C0-4611-8886-EAF4F726C86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B9C9D0C-00C0-4611-8886-EAF4F726C86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B9C9D0C-00C0-4611-8886-EAF4F726C86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6217E1-12FA-4223-BE72-1F24EA364303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6217E1-12FA-4223-BE72-1F24EA364303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6217E1-12FA-4223-BE72-1F24EA364303}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CE6217E1-12FA-4223-BE72-1F24EA364303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6217E1-12FA-4223-BE72-1F24EA364303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6217E1-12FA-4223-BE72-1F24EA364303}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
