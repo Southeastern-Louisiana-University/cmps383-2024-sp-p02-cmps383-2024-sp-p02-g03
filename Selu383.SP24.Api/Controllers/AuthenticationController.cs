@@ -22,7 +22,6 @@ public class AuthenticationController : ControllerBase
     [Route("api/authentication/login")]
     public async Task<IActionResult> Login(LoginDto login)
     {
-        if (login == null) { BadRequest(); }
 
 
     }*/
