@@ -8,5 +8,5 @@ public class HotelDto
 
     public string Address { get; set; }
 
-    public int ?ManagerId { get; set; }
+    public int? ManagerId { get; set; }
 }
